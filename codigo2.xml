@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <factura ide="123" fecha="2018-06-12">
 	<cliente>
-		<nombre>Daniel Nava</nombre>
+		<nombre>Daniel</nombre>
 		<telefono>72140051</telefono>
 	</cliente>
 	<articulos>

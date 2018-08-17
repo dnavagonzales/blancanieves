@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<factura ide="123" fecha="2018-06-12">
+	<cliente>
+		<nombre>Daniel Nava</nombre>
+		<telefono>72140051</telefono>
+	</cliente>
+	<articulos>
+		<articulo id=1>
+			<descripcion>Manzana</descripcion>
+			<precio-unitario>5</precio-unitario>
+			<precio-final>20</precio-final>
+			<cantidad>4</cantidad>
+		</articulo>
+
+		<articulo id=2>
+			<descripcion>Mandarina</descripcion>
+			<precio-unitario>2</precio-unitario>
+			<precio-final>100</precio-final>
+			<cantidad>50</cantidad>
+		</articulo>	
+	</articulos>
+	<precio-total>70</precio-total>
+</factura>
